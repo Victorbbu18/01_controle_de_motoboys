@@ -1,0 +1,41 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.header.clearfix {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.form-container {
+    text-align: center;
+    margin: auto;
+}
+
+.form-group {
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.row.marketing {
+    padding-top: 20px;
+}
+
+input {
+    text-align: center;
+}
+
+.btn.btn-primary {
+    margin-top: 10px;
+}
